@@ -1,0 +1,22 @@
+extends layout 
+
+block layout-content 
+    div#Addform
+        h1 Add a new Employee
+        div
+            form(method="post", action="/add/submit")
+                div#form
+                    div 
+                        label(for="login") Login: 
+                        input(type="text", id="login", name="empLogin",  placeholder="e.g. sanprkau")
+                    div 
+                        label(for="name") Name: 
+                        input(type="text", id="name", name="empName", placeholder="e.g. Amanpreet kaur")
+                    div 
+                        label(for="department") Department: 
+                        input(type="text", id="department", name="empDepartment", placeholder="e.g. Inbound")
+                    div 
+                        label(for="rating") Rating: 
+                        input(type="number", id="rating", name="empRating", placeholder="e.g. 4")
+                    button(type="submit") Add Employee
+            img(src="/img/Add.jpg"  width="600"  class="addimage" )

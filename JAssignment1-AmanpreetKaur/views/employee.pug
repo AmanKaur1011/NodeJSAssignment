@@ -1,0 +1,14 @@
+extends layout 
+
+block layout-content 
+
+    div#adminsteremp 
+        h1.page-title  Administer  Employees
+        a(href="/add" id="Add") Add Employee
+        div.mt-5.container
+            ul.row.gx-5.gy-5 
+                each employee in employees 
+                    li.col 
+                        div#emp.text-center.pt-3.pb-3.ps-3.pe-3  
+                            h3 #{employee.empName}
+                            p.badge.bg-primary #{employee.empLogin} 

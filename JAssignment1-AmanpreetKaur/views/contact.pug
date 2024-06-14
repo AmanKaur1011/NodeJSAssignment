@@ -1,0 +1,22 @@
+extends  layout 
+
+block layout-content
+
+    div#contactus
+        h1.page-title Contact Us
+        div#contact
+            form(action="/")
+                div 
+                    label(for="name") Name:
+                    input(type="text" id="name" placeholder="e.g. Amanpreet Kaur")
+                div 
+                    label(for="email") Email: 
+                    input(type="text" id="email" placeholder="e.g. Amanpreet Kaur")
+                div 
+                    label(for="comments") Comments:
+                    textarea( id="comments"  cols="25" rows="4" placeholder="e.g. Amanpreet Kaur")
+                div#contactbutton
+                    input(type="submit")
+            div 
+                img(src="/img/Rectangle5.png" class="contactimg" )
+            

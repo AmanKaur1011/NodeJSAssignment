@@ -1,0 +1,11 @@
+extends layout 
+
+block layout-content
+    div#detail
+        img(src="/img/hero.png" height="300px")
+        div#empDetail
+            h3 #{employee.empName} 
+            p Login: #{employee.empLogin} 
+            p Department : #{employee.empDepartment} 
+            p  Rating : #{employee.empRating}  Star 
+    

@@ -1,0 +1,18 @@
+extends layout 
+
+block layout-content
+    div 
+        div
+            h1.page-title Our Team
+            div.container
+                ul#eachemp.row.gx-5.gy-5
+                    each employee in employees 
+                        li.col 
+                            div#employee.text-center.pt-3.pb-3.ps-3.pe-3.container
+                                h3 #{employee.empName} 
+                                p.text-muted #{employee.empLogin}
+                                form(action="/detail")
+                                    input(type="hidden" name="empId", value= employee._id ) 
+                                    button(type="submit") Get Details
+            div#admin
+                a(href="/employee") Admin
