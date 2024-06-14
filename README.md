@@ -7,8 +7,7 @@ Image References:
 4. About Page
 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fcustomer-obsession&psig=AOvVaw2mCMgeHo-fjrHEe7I6_Ml-&ust=1718422213029000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMinht6T2oYDFQAAAAAdAAAAABAK
 -  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fskill&psig=AOvVaw14uPITKWZoiyLSkXBmjyq3&ust=1718422060031000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjFjJWT2oYDFQAAAAAdAAAAABAE
--  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fscuba-diving- 
-  courses&psig=AOvVaw1iQ3vyI1thULYEDu0dzw9R&ust=1718421812242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDm-Z6S2oYDFQAAAAAdAAAAABAE
+-  https://www.istockphoto.com/vector/diver-deep-under-water-diving-training-course-open-sea-gm584751312-100146505
 - https://sellermobile.com/wp-content/uploads/2021/09/amazon-seller-app-1.jpeg
 6. Add Page -"https://chiefmarketer.com/wp-content/uploads/2022/10/diverse-workplace-scaled.jpg"
 
